@@ -1,1 +1,4 @@
-
+cd sossen-solar-website
+git add .
+git commit -m "Initial website deployment"
+git push origin main
